@@ -1,0 +1,11 @@
+{"_id":{"$oid":"5e3e4c3aaca6872cb86471c0"},"name":"香浓甜粥","shopid":{"$oid":"5e3d52d2e5cb6c3114483f0a"}}
+{"_id":{"$oid":"5e3e4c3aaca6872cb86471c2"},"name":"爽口凉菜","shopid":{"$oid":"5e3d52d2e5cb6c3114483f0a"}}
+{"_id":{"$oid":"5e3e4c3aaca6872cb86471c3"},"name":"精选套餐","shopid":{"$oid":"5e3d52d2e5cb6c3114483f0a"}}
+{"_id":{"$oid":"5e3e4c3aaca6872cb86471c4"},"name":"果拼果汁","shopid":{"$oid":"5e3d52d2e5cb6c3114483f0a"}}
+{"_id":{"$oid":"5e3e4c3aaca6872cb86471c5"},"name":"小吃主食","shopid":{"$oid":"5e3d52d2e5cb6c3114483f0a"}}
+{"_id":{"$oid":"5e3e4c3aaca6872cb86471c6"},"name":"特色粥品","shopid":{"$oid":"5e3d52d2e5cb6c3114483f0a"}}
+{"_id":{"$oid":"5e3e4c3aaca6872cb86471c7"},"name":"炒菜类","shopid":{"$oid":"5e3e1d32aca6872cb86471bd"}}
+{"_id":{"$oid":"5e3e4c3aaca6872cb86471c8"},"name":"主食","shopid":{"$oid":"5e3e1d32aca6872cb86471bd"}}
+{"_id":{"$oid":"5e3e4c3aaca6872cb86471c9"},"name":"特制酱料","shopid":{"$oid":"5e3e1d32aca6872cb86471bd"}}
+{"_id":{"$oid":"5e3e4c3aaca6872cb86471ca"},"name":"汤类","shopid":{"$oid":"5e3e1d32aca6872cb86471bd"}}
+{"_id":{"$oid":"5e3e4c3aaca6872cb86471cb"},"name":"饮料","shopid":{"$oid":"5e3e1d32aca6872cb86471bd"}}

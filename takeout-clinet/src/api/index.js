@@ -1,0 +1,18 @@
+import ajax from './ajax'
+const Base_Url = '/api'
+export const reqCategorys = () => ajax(Base_Url+'/category')
+export const reqShopList = () => ajax(Base_Url +'/shoplist')
+export const reqGetCode = (phone) => ajax(Base_Url+ '/getcode',{phone})
+export const reqLoginNote = (phone, phoneCode) => ajax (Base_Url + '/login_note', {phone, phoneCode}, 'POST')
+export const reqUserInfo = () => ajax (Base_Url + '/get_userinfo')
+export const reqLoginPass = (username, password, passwordCode) => ajax(Base_Url+ '/login_pass', {username, password,passwordCode}, 'POST')
+export const reqLoginOut = () => ajax(Base_Url + '/login_out')
+export const reqSearchShop = (keyword) => ajax(Base_Url + '/search_shop', {keyword})
+export const reqBangPhone = (user) => ajax (Base_Url + '/bangphone', user, 'POST')
+export const reqSaveOrder = (order) => ajax (Base_Url + '/saveorder', order, 'POST')
+export const reqOrderList = () => ajax(Base_Url + '/get_orderlist')
+export const reqSearchOrder = (keyword) => ajax(Base_Url + '/search_order', {keyword})
+export const reqSaveRating = (rating) => ajax(Base_Url + '/saverating', rating, 'POST')
+export const reqShopInfo = (id) =>ajax( Base_Url + '/shopone', {shopid: id})
+export const reqUpdateSellCount = (updatesellcount) => ajax( Base_Url + '/update_sellcount',updatesellcount,'POST')
+export const reqDeleteOrder = (orderid) => ajax(Base_Url+ '/del_order', {orderid})

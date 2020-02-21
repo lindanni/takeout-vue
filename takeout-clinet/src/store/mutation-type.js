@@ -1,0 +1,13 @@
+export const RECEIVE_CATEGORYS = 'receive_categorys' //接受分类数组
+export const RECEIVE_SHOPLIST = 'receive_shoplist' //接受商品列表
+export const RECEIVE_SHOPINFO = 'receive_shopinfo' //根据id接受商店信息
+export const INCREMENT_FOOD_COUNT = 'increment_food_count'
+export const DECREMENT_FOOD_COUNT = 'decrement_food_count'
+export const RECEIVE_USERINFO = 'receive_userinfo'
+export const REST_USERINFO = 'rest_userinfo'
+export const GET_SHOPCART = 'get_shopcart'
+export const RECEIVE_ORDERLIST = 'receive_orderlist'
+export const RECEIVE_SEARCH_ORDER = 'receive_search_order'
+export const GET_ORDERDETAIL = 'get_orderdetail'
+export const GET_ORDERLIST_BYSHOPID = 'get_orderlist_byshopid'
+export const DEL_ORDER = 'del_order'

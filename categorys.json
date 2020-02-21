@@ -1,0 +1,16 @@
+{"_id":{"$oid":"5e1eb75da7476e343cb472af"},"title":"甜品饮品","image_url":"/category/696aa5cf9820adada9b11a3d14bf5.png"}
+{"_id":{"$oid":"5e1eb825a7476e343cb472b0"},"title":"商超便利","image_url":"/category/f42235e6929a5cb0e7013115ce78d.png"}
+{"_id":{"$oid":"5e1ebb83a7476e343cb472b1"},"title":"美食","image_url":"/category/d1890cf73ae6f2adb97caa39de7fc.png"}
+{"_id":{"$oid":"5e1ebb83a7476e343cb472b2"},"title":"简餐","image_url":"/category/7bddb07503aea4b711236348e2632.png"}
+{"_id":{"$oid":"5e1ebb83a7476e343cb472b3"},"title":"新店特惠","image_url":"/category/d41b04d520d445dc5de42dae9a384.png"}
+{"_id":{"$oid":"5e1ebb83a7476e343cb472b4"},"title":"准时达","image_url":"/category/8e031bf7b3c036b4ec19edff16e46.png"}
+{"_id":{"$oid":"5e1ebb83a7476e343cb472b5"},"title":"预定早餐","image_url":"/category/7757ff22e8ab28e7dfa5f7e2c2692.png"}
+{"_id":{"$oid":"5e1ebb83a7476e343cb472b6"},"title":"土豪推荐","image_url":"/category/02b72b5e63c127d5bfae57b8e4ab1.png"}
+{"_id":{"$oid":"5e1ebb83a7476e343cb472b7"},"title":"川湘菜","image_url":"/category/9700836a33e05c2410bda8da59117.png"}
+{"_id":{"$oid":"5e1ebb83a7476e343cb472b8"},"title":"麻辣烫","image_url":"/category/a9ef469a12e7a596b559145b87f09.png"}
+{"_id":{"$oid":"5e1ebb83a7476e343cb472b9"},"title":"包子粥店","image_url":"/category/244241b514affc0f12f4168cf6628.png"}
+{"_id":{"$oid":"5e1ebb83a7476e343cb472ba"},"title":"鲜花蛋糕","image_url":"/category/171fd98b85dee3b3f4243b7459b48.png"}
+{"_id":{"$oid":"5e1ebb83a7476e343cb472bb"},"title":"日韩料理","image_url":"/category/1e0f448be0624c62db416e864d2af.png"}
+{"_id":{"$oid":"5e1ebb83a7476e343cb472bc"},"title":"果蔬生鲜","image_url":"/category/ea0d51c9608310cf41faa5de6b8ef.png"}
+{"_id":{"$oid":"5e1ebb83a7476e343cb472bd"},"title":"汉堡薯条","image_url":"/category/432619fb21a40b05cd25d11eca02d.png"}
+{"_id":{"$oid":"5e1ebb83a7476e343cb472be"},"title":"披萨意面","image_url":"/category/235761e50d391445f021922b71789.png"}
